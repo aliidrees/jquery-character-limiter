@@ -25,5 +25,5 @@ jQuery('your-text-field-selector-here').limitCharacters(150, {
 ## Requirements
 - jQuery
 
-##License
+## License
 jQuery Character Limiter is released under the MIT license. See LICENSE for details.
